@@ -12,6 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=DexxZone&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/DexxZone/count.svg" />
+</p>
+
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **SaaS**
