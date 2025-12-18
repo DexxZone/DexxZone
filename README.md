@@ -24,6 +24,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ayan+👋;Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Rust+🦀" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=26
+    &pause=1000
+    &color=38BDF8
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Hi%2C+I'm+Ayan+👋;Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Rust+🦀;Open+Source+Enthusiast"
+  />
+</p>
 
 ### 👨‍💻 About Me
 
