@@ -6,6 +6,11 @@
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0OGNvZXZycXZnaXE2ajEwMzY5a2Nweml0MHQyNmoxM3ZiangyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="coding gif"/>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DexxZone&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 </p>
 ### 👨‍💻 About Me
 
