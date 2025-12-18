@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Sales and Distribution Software**
+- 🔭 Currently working on **SaaS**
 - 🌱 Learning **Rust**
 - 👯 Looking to collaborate on **Rust projects**
 - 🤝 Looking for help with **Rust**
@@ -109,12 +109,4 @@
   <a href="mailto:me@dexzone.xyz">📧 Email</a>
 </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dexxzone&show_icons=true&locale=en&layout=compact" alt="dexxzone" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dexxzone&show_icons=true&locale=en" alt="dexxzone" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dexxzone&" alt="dexxzone" /></p>
 
