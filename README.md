@@ -7,9 +7,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0OGNvZXZycXZnaXE2ajEwMzY5a2Nweml0MHQyNmoxM3ZiangyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="coding gif"/>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexxZone/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexxZone/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DexxZone/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
-</p>
 
 </p>
 ### 👨‍💻 About Me
