@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0OGNvZXZycXZnaXE2ajEwMzY5a2Nweml0MHQyNmoxM3ZiangyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="coding gif"/>
 </p>
 ### 👨‍💻 About Me
 
