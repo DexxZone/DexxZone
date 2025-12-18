@@ -36,6 +36,22 @@
     &lines=Hi%2C+I'm+Ayan+👋;Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Rust+🦀;Open+Source+Enthusiast"
   />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &height=220
+    &text=Ayan%20%7C%20DexxZone
+    &fontAlign=50
+    &fontAlignY=40
+    &fontSize=55
+    &desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20Rust%20🦀
+    &descAlign=50
+    &descAlignY=65
+    &animation=fadeIn
+    &color=gradient"
+  />
+</p>
+
 
 ### 👨‍💻 About Me
 
