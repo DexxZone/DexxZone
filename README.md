@@ -9,6 +9,11 @@
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DexxZone&show_icons=true&theme=tokyonight&hide_border=true" />
+
+    <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DexxZone&theme=onedark&no-frame=true&row=1" />
+</p>
+
 </p>
 
 </p>
