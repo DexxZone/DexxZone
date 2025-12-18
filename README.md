@@ -4,8 +4,7 @@
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
 ---
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0OGNvZXZycXZnaXE2ajEwMzY5a2Nweml0MHQyNmoxM3ZiangyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="coding gif"/>
+
 
 
 <p align="center">
@@ -14,7 +13,8 @@
 
 
 ### 👨‍💻 About Me
-
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0OGNvZXZycXZnaXE2ajEwMzY5a2Nweml0MHQyNmoxM3ZiangyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="coding gif"/>
 - 🔭 Currently working on **SaaS**
 - 🌱 Learning **Rust**
 - 👯 Looking to collaborate on **Rust projects**
