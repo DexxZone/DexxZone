@@ -12,46 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=DexxZone&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/DexxZone/count.svg" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ayan+👋;Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Rust+🦀" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=26
-    &pause=1000
-    &color=38BDF8
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Hi%2C+I'm+Ayan+👋;Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Learning+Rust+🦀;Open+Source+Enthusiast"
-  />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &height=220
-    &text=Ayan%20%7C%20DexxZone
-    &fontAlign=50
-    &fontAlignY=40
-    &fontSize=55
-    &desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20Rust%20🦀
-    &descAlign=50
-    &descAlignY=65
-    &animation=fadeIn
-    &color=gradient"
-  />
-</p>
-
 
 ### 👨‍💻 About Me
 
