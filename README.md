@@ -14,16 +14,20 @@ Full Stack Developer · Pakistan
 
 ---
 
-## About
+## Professional Summary
 
-I'm a full stack developer focused on building scalable web applications and SaaS products.  
-I enjoy working across the stack — from clean frontend architecture to efficient backend systems.
+Full stack developer with experience building and maintaining modern web applications and SaaS products.  
+Strong focus on clean architecture, performance, and maintainability.
 
-- Currently building **SaaS products**
-- Learning **Go**
-- Open to collaborating on **Go-based projects**
-- Comfortable with **JavaScript & TypeScript**
-- I do Try Hack Me as a Hobby
+I actively study **web security** as a hobby to write safer, more resilient code and avoid common vulnerabilities in production systems.
+
+---
+
+## What I'm Working On
+
+- Building **SaaS applications**
+- Learning **Go** (early-stage, focused on fundamentals and backend use cases)
+- Exploring **web and application security** to improve code quality
 
 ---
 
@@ -34,7 +38,7 @@ I enjoy working across the stack — from clean frontend architecture to efficie
 - TypeScript
 - PHP
 - Bash
-- Go
+- Go (learning)
 
 ### Frontend
 - React
@@ -61,7 +65,7 @@ I enjoy working across the stack — from clean frontend architecture to efficie
 
 ## Projects
 
-All of my public projects and experiments are available here:  
+A selection of my work and ongoing projects is available at:  
 👉 **https://dexzone.xyz**
 
 ---
