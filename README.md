@@ -1,6 +1,6 @@
-<h1 align="center">Ayan Asif</h1>
+<h1 align="center">Ayan</h1>
 <p align="center">
-Backend-Focused Full Stack Developer · Pakistan
+Junior Backend Developer · DevOps & Microservices (Learning) · Pakistan
 </p>
 
 <p align="center">
@@ -8,22 +8,31 @@ Backend-Focused Full Stack Developer · Pakistan
   <a href="mailto:me@dexzone.xyz">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DexxZone&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## Professional Summary
 
-Backend-focused developer experienced in building APIs, databases, and server-side systems for modern web applications and SaaS products.
+Junior backend developer with experience building APIs and server-side systems for web applications and SaaS projects.
 
-I prioritize **clean architecture, security-aware development, and scalability**.  
-Alongside backend work, I study **web and application security** as a hobby to improve code quality and reduce real-world vulnerabilities.
+Currently learning **DevOps and cloud fundamentals** by building **containerized microservices**, experimenting with **CI/CD pipelines**, and deploying services using **AWS and Kubernetes (fundamentals)**.  
+I also study **web security** as a hobby to write safer, more reliable backend code.
 
 ---
 
 ## Current Focus
 
-- Developing **backend systems for SaaS products**
-- Learning **Go** (beginner level, focused on backend fundamentals and services)
-- Improving knowledge of **web security, authentication, and common attack vectors**
+- Backend development for web and SaaS applications
+- Microservices architecture using **Go** (learning)
+- Containerization with **Docker**
+- CI/CD pipelines for automated builds and deployments
+- Cloud fundamentals using **AWS**
+- Container orchestration concepts using **Kubernetes**
+- API development using **REST and GraphQL**
+- Web security fundamentals and defensive backend coding
 
 ---
 
@@ -32,21 +41,26 @@ Alongside backend work, I study **web and application security** as a hobby to i
 ### Backend & Languages
 - JavaScript (Node.js)
 - TypeScript
+- Go (learning, microservices-focused)
 - PHP
-- Go (learning)
 - Bash
 
-### Backend Frameworks & Runtime
-- Node.js
+### API & Backend Frameworks
 - Express.js
+- REST APIs
+- GraphQL (learning)
 
-### Databases & Caching
-- MongoDB
+### Databases & Data Layer
 - PostgreSQL
-- MySQL
+- MongoDB
 - Redis
+- Prisma ORM
 
-### DevOps & Infrastructure
+### DevOps & Cloud (Learning)
+- Docker
+- CI/CD pipelines
+- AWS (cloud fundamentals)
+- Kubernetes (fundamentals)
 - Linux
 - Nginx
 - Git
@@ -61,41 +75,39 @@ Alongside backend work, I study **web and application security** as a hobby to i
 
 ## Featured Projects
 
-> A selection of backend-heavy projects demonstrating real-world patterns and practices.
+### 🔹 SaaS Backend Application
+**Tech:** Node.js, Express, PostgreSQL, Redis, Prisma  
+- Built REST APIs for SaaS functionality
+- Implemented authentication and role-based access
+- Used Prisma for database modeling and migrations
+- Optimized queries and caching
+- Focused on clean and maintainable backend architecture
 
-### 🔹 SaaS Backend Platform
-**Tech:** Node.js, Express, PostgreSQL, Redis  
-- Designed RESTful APIs for core SaaS functionality
-- Implemented authentication, authorization, and role-based access
-- Optimized database queries and caching for performance
-- Focused on maintainable and scalable backend architecture
+### 🔹 Go Microservices & DevOps Project (Learning)
+**Tech:** Go, Docker, PostgreSQL, Prisma  
+- Building independent backend services in Go
+- Containerizing services using Docker
+- Designing service-to-service communication
+- Learning deployment and runtime concepts
 
-### 🔹 API-Driven Web Application
-**Tech:** Node.js, MongoDB, Express  
-- Built modular backend services consumed by frontend clients
-- Structured codebase with separation of concerns
-- Integrated validation and error-handling best practices
-- Applied security-focused development principles
+### 🔹 DevOps & Cloud Experiments
+**Tech:** Docker, CI/CD, AWS, Kubernetes  
+- Creating CI pipelines for backend services
+- Deploying containerized applications
+- Learning Kubernetes concepts such as pods, services, and deployments
+- Understanding how cloud infrastructure supports backend systems
 
-### 🔹 Backend Experiments & Learning Projects
-**Tech:** Go, Node.js  
-- Practicing backend fundamentals in Go (routing, concurrency basics, services)
-- Exploring system design, API structure, and performance concepts
-- Used as a sandbox for learning new backend tools and patterns
-
-More projects and details available at:  
+More projects available at:  
 👉 **https://dexzone.xyz**
 
 ---
 
-## Security Mindset
+## Security Awareness
 
-While not a security professional, I actively study:
-- Web vulnerabilities (OWASP Top 10 concepts)
+- Web vulnerability fundamentals (OWASP concepts)
+- Input validation and schema validation
 - Secure authentication and authorization patterns
-- Writing defensive backend code to minimize attack surface
-
-This directly influences how I design and review backend systems.
+- Defensive backend coding practices
 
 ---
 
