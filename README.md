@@ -1,6 +1,6 @@
 <h1 align="center">Ayan</h1>
 <p align="center">
-Full Stack Developer · Pakistan
+Backend-Focused Full Stack Developer · Pakistan
 </p>
 
 <p align="center">
@@ -16,57 +16,90 @@ Full Stack Developer · Pakistan
 
 ## Professional Summary
 
-Full stack developer with experience building and maintaining modern web applications and SaaS products.  
-Strong focus on clean architecture, performance, and maintainability.
+Backend-focused developer experienced in building APIs, databases, and server-side systems for modern web applications and SaaS products.
 
-I actively study **web security** as a hobby to write safer, more resilient code and avoid common vulnerabilities in production systems.
+I prioritize **clean architecture, security-aware development, and scalability**.  
+Alongside backend work, I study **web and application security** as a hobby to improve code quality and reduce real-world vulnerabilities.
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-- Building **SaaS applications**
-- Learning **Go** (early-stage, focused on fundamentals and backend use cases)
-- Exploring **web and application security** to improve code quality
+- Developing **backend systems for SaaS products**
+- Learning **Go** (beginner level, focused on backend fundamentals and services)
+- Improving knowledge of **web security, authentication, and common attack vectors**
 
 ---
 
 ## Tech Stack
 
-### Languages
-- JavaScript
+### Backend & Languages
+- JavaScript (Node.js)
 - TypeScript
 - PHP
-- Bash
 - Go (learning)
+- Bash
 
-### Frontend
-- React
-- Next.js
-- React Native
-- Tailwind CSS
-
-### Backend
+### Backend Frameworks & Runtime
 - Node.js
 - Express.js
 
-### Databases
+### Databases & Caching
 - MongoDB
 - PostgreSQL
 - MySQL
 - Redis
 
-### DevOps & Tools
-- Git
+### DevOps & Infrastructure
 - Linux
 - Nginx
+- Git
+
+### Frontend (Supporting)
+- React
+- Next.js
+- React Native
+- Tailwind CSS
 
 ---
 
-## Projects
+## Featured Projects
 
-A selection of my work and ongoing projects is available at:  
+> A selection of backend-heavy projects demonstrating real-world patterns and practices.
+
+### 🔹 SaaS Backend Platform
+**Tech:** Node.js, Express, PostgreSQL, Redis  
+- Designed RESTful APIs for core SaaS functionality
+- Implemented authentication, authorization, and role-based access
+- Optimized database queries and caching for performance
+- Focused on maintainable and scalable backend architecture
+
+### 🔹 API-Driven Web Application
+**Tech:** Node.js, MongoDB, Express  
+- Built modular backend services consumed by frontend clients
+- Structured codebase with separation of concerns
+- Integrated validation and error-handling best practices
+- Applied security-focused development principles
+
+### 🔹 Backend Experiments & Learning Projects
+**Tech:** Go, Node.js  
+- Practicing backend fundamentals in Go (routing, concurrency basics, services)
+- Exploring system design, API structure, and performance concepts
+- Used as a sandbox for learning new backend tools and patterns
+
+More projects and details available at:  
 👉 **https://dexzone.xyz**
+
+---
+
+## Security Mindset
+
+While not a security professional, I actively study:
+- Web vulnerabilities (OWASP Top 10 concepts)
+- Secure authentication and authorization patterns
+- Writing defensive backend code to minimize attack surface
+
+This directly influences how I design and review backend systems.
 
 ---
 
