@@ -38,7 +38,6 @@ I also study **web security** as a hobby to write safer, more reliable backend c
 - JavaScript (Node.js)
 - TypeScript
 - Go (learning, microservices-focused)
-- PHP
 - Bash
 
 ### API & Backend Frameworks
