@@ -23,7 +23,7 @@ I enjoy working across the stack — from clean frontend architecture to efficie
 - Learning **Go**
 - Open to collaborating on **Go-based projects**
 - Comfortable with **JavaScript & TypeScript**
-- Chess.com peak rating: **2200**
+- I do Try Hack Me as a Hobby
 
 ---
 
