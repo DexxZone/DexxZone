@@ -1,4 +1,4 @@
-<h1 align="center">Ayan</h1>
+<h1 align="center">Ayan Asif</h1>
 <p align="center">
 Backend-Focused Full Stack Developer · Pakistan
 </p>
@@ -6,10 +6,6 @@ Backend-Focused Full Stack Developer · Pakistan
 <p align="center">
   <a href="https://dexzone.xyz">Website</a> ·
   <a href="mailto:me@dexzone.xyz">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DexxZone&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
