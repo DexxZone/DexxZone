@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ayan</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 <br>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFwM2Q1ZW8wMHd6aDkya3F0dGNjOHg4MjBma3A2NHVmZXc2b3R1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jY0nfdu6tU9bzey8kB/giphy.gif" width="500" alt="coding gif"/>
