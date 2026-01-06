@@ -78,23 +78,6 @@ I also study **web security** as a hobby to write safer, more reliable backend c
 - Optimized queries and caching
 - Focused on clean and maintainable backend architecture
 
-### 🔹 Go Microservices & DevOps Project (Learning)
-**Tech:** Go, Docker, PostgreSQL, Prisma  
-- Building independent backend services in Go
-- Containerizing services using Docker
-- Designing service-to-service communication
-- Learning deployment and runtime concepts
-
-### 🔹 DevOps & Cloud Experiments
-**Tech:** Docker, CI/CD, AWS, Kubernetes  
-- Creating CI pipelines for backend services
-- Deploying containerized applications
-- Learning Kubernetes concepts such as pods, services, and deployments
-- Understanding how cloud infrastructure supports backend systems
-
-More projects available at:  
-👉 **https://dexzone.xyz**
-
 ---
 
 ## Security Awareness
