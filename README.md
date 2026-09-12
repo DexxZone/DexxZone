@@ -44,6 +44,7 @@ I also study **web security** as a hobby to write safer, more reliable backend c
 - Express.js
 - REST APIs
 - GraphQL (learning)
+- Python
 
 ### Databases & Data Layer
 - PostgreSQL
@@ -90,6 +91,4 @@ I also study **web security** as a hobby to write safer, more reliable backend c
 ---
 
 ## Contact
-
-- Website: **https://dexzone.xyz**
 - Email: **me@dexzone.xyz**
